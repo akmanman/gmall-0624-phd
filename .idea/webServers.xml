@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b48f1584-8360-422f-93b0-260f6e4db0a6" name="hadoop162">
+        <fileTransfer accessType="SFTP" host="hadoop162" port="22" sshConfigId="38cee57b-22f5-46e8-a811-ec7052cbe8d3" sshConfig="atguigu@hadoop162:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
